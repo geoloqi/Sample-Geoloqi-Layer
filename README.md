@@ -57,12 +57,6 @@ For the Calagator layer, we create a trigger at a venue with the message we want
 
 **url:** The URL is a link to the event on Calagator. If the message is sent via push notification, clicking on the notification will open the web page. If sent via SMS, the link will be appended to the end of the SMS.
 
-Timeline Stories
-----------------
-
-When a user picks up the message, it gets added to their timeline on the web, with links to the layer page and place page. The story will also contain a link to the URL provided in the trigger.
-
-![Geoloqi Layer Message](https://developer-site-content.geoloqi.com/wiki/images/thumb/7/75/calagator-timeline-story.png/500px-calagator-timeline-story.png)
 
 License
 =======
